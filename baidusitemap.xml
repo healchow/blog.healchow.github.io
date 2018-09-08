@@ -4,8 +4,8 @@
 
     
   <url>
-    <loc>http://healchow.com/2018/10/16/hello-world/</loc>
-    <lastmod>2018-08-05T06:15:57.000Z</lastmod>
+    <loc>http://blog.healchow.com/title.html</loc>
+    <lastmod>2018-09-08T07:50:35.000Z</lastmod>
     <data>
         <display>
         <title>Hello World</title>
@@ -13,8 +13,16 @@
         
         <tag>hexo</tag>
          
+        <tag>helloword</tag>
+         
          
            
+             
+              <breadCrumb title="hexo" url="http://blog.healchow.com/categories/hexo/"/>
+          
+             
+              <breadCrumb title="blog" url="http://blog.healchow.com/categories/hexo/blog/"/>
+          
         </display>
     </data>
     </url>
