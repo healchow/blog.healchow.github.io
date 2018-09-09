@@ -2,9 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.healchow.com/learn/index.html</loc>
+    
+    <lastmod>2018-09-09T07:01:56.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.healchow.com/note/index.html</loc>
+    
+    <lastmod>2018-09-09T07:00:11.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.healchow.com/title.html</loc>
     
-    <lastmod>2018-09-08T17:36:42.000Z</lastmod>
+    <lastmod>2018-09-09T06:57:40.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.healchow.com/title.html</loc>
+    
+    <lastmod>2018-09-09T06:57:33.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.healchow.com/title.html</loc>
+    
+    <lastmod>2018-09-09T06:57:32.000Z</lastmod>
     
   </url>
   

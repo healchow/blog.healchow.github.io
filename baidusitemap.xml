@@ -3,9 +3,55 @@
 
 
     
+    
+    
   <url>
     <loc>http://blog.healchow.com/title.html</loc>
-    <lastmod>2018-09-08T17:36:42.000Z</lastmod>
+    <lastmod>2018-09-09T06:57:40.000Z</lastmod>
+    <data>
+        <display>
+        <title>second_hexo</title>
+        <pubTime>2018-09-09T06:39:28.000Z</pubTime>
+        
+        <tag>hexo</tag>
+         
+        <tag>second</tag>
+         
+         
+           
+             
+              <breadCrumb title="hexo" url="http://blog.healchow.com/categories/hexo/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.healchow.com/title.html</loc>
+    <lastmod>2018-09-09T06:57:33.000Z</lastmod>
+    <data>
+        <display>
+        <title>my-layout</title>
+        <pubTime>2018-09-09T06:47:34.000Z</pubTime>
+        
+        <tag>hexo</tag>
+         
+        <tag>layout</tag>
+         
+         
+           
+             
+              <breadCrumb title="hexo" url="http://blog.healchow.com/categories/hexo/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.healchow.com/title.html</loc>
+    <lastmod>2018-09-09T06:57:32.000Z</lastmod>
     <data>
         <display>
         <title>Hello World</title>
