@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://blog.healchow.com/title.html</loc>
+    <loc>http://blog.healchow.com/2018/09/second-test.html</loc>
     
-    <lastmod>2018-09-09T06:57:32.000Z</lastmod>
+    <lastmod>2018-09-09T10:18:18.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.healchow.com/2018/10/hello-world.html</loc>
+    
+    <lastmod>2018-09-09T10:15:13.000Z</lastmod>
     
   </url>
   

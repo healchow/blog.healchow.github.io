@@ -1,1 +1,2 @@
-http://blog.healchow.com/title.html
+http://blog.healchow.com/2018/10/hello-world.html
+http://blog.healchow.com/2018/09/second-test.html
