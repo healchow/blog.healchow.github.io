@@ -58,9 +58,9 @@
       <category term="hexo" scheme="http://blog.healchow.com/categories/hexo/"/>
     
     
-      <category term="test" scheme="http://blog.healchow.com/tags/test/"/>
-    
       <category term="hexo" scheme="http://blog.healchow.com/tags/hexo/"/>
+    
+      <category term="test" scheme="http://blog.healchow.com/tags/test/"/>
     
   </entry>
   
