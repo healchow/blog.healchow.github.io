@@ -4,21 +4,19 @@
 
     
   <url>
-    <loc>http://blog.healchow.com/2018/09/09/2018/09/second-test.html</loc>
-    <lastmod>2018-09-09T10:18:18.000Z</lastmod>
+    <loc>//blog.healchow.com/2018/09/09/second-test.html</loc>
+    <lastmod>2018-09-18T09:37:20.000Z</lastmod>
     <data>
         <display>
         <title>second-test</title>
         <pubTime>2018-09-09T10:13:55.000Z</pubTime>
         
-        <tag>hexo</tag>
-         
-        <tag>test</tag>
+        <tag>hexo test</tag>
          
          
            
              
-              <breadCrumb title="hexo" url="http://blog.healchow.com/categories/hexo/"/>
+              <breadCrumb title="hexo博客" url="//blog.healchow.com/categories/hexo%E5%8D%9A%E5%AE%A2/"/>
           
         </display>
     </data>
@@ -26,21 +24,21 @@
 
     
   <url>
-    <loc>http://blog.healchow.com/2018/10/16/2018/10/hello-world.html</loc>
-    <lastmod>2018-09-09T10:15:13.000Z</lastmod>
+    <loc>//blog.healchow.com/2018/08/05/hello-world.html</loc>
+    <lastmod>2018-09-18T09:37:14.000Z</lastmod>
     <data>
         <display>
         <title>Hello World</title>
-        <pubTime>2018-10-15T23:33:44.000Z</pubTime>
+        <pubTime>2018-08-05T00:33:44.000Z</pubTime>
         
-        <tag>hexo</tag>
+        <tag>hexo test</tag>
          
         <tag>helloword</tag>
          
          
            
              
-              <breadCrumb title="hexo" url="http://blog.healchow.com/categories/hexo/"/>
+              <breadCrumb title="hexo博客" url="//blog.healchow.com/categories/hexo%E5%8D%9A%E5%AE%A2/"/>
           
         </display>
     </data>
