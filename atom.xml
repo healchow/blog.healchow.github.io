@@ -18,8 +18,8 @@
   
   <entry>
     <title>second-test</title>
-    <link href="//blog.healchow.com/2018/09/09/second-test.html"/>
-    <id>//blog.healchow.com/2018/09/09/second-test.html</id>
+    <link href="//blog.healchow.com/second-test.html"/>
+    <id>//blog.healchow.com/second-test.html</id>
     <published>2018-09-09T10:13:55.000Z</published>
     <updated>2018-09-18T09:37:20.000Z</updated>
     
@@ -40,8 +40,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="//blog.healchow.com/2018/08/05/hello-world.html"/>
-    <id>//blog.healchow.com/2018/08/05/hello-world.html</id>
+    <link href="//blog.healchow.com/hello-world.html"/>
+    <id>//blog.healchow.com/hello-world.html</id>
     <published>2018-08-05T00:33:44.000Z</published>
     <updated>2018-09-18T09:37:14.000Z</updated>
     
