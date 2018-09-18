@@ -5,9 +5,9 @@
   <subtitle>活得自我 并且干净</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="//blog.healchow.com/"/>
+  <link href="blog.healchow.com/"/>
   <updated>2018-09-18T09:37:20.000Z</updated>
-  <id>//blog.healchow.com/</id>
+  <id>blog.healchow.com/</id>
   
   <author>
     <name>Heal Chow</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>second-test</title>
-    <link href="//blog.healchow.com/2018/09/09/2018/09/09/second-test.html"/>
-    <id>//blog.healchow.com/2018/09/09/2018/09/09/second-test.html</id>
+    <link href="blog.healchow.com/2018/09/09/second-test.html"/>
+    <id>blog.healchow.com/2018/09/09/second-test.html</id>
     <published>2018-09-09T10:13:55.000Z</published>
     <updated>2018-09-18T09:37:20.000Z</updated>
     
@@ -31,17 +31,17 @@
     
     </summary>
     
-      <category term="hexo博客" scheme="//blog.healchow.com/categories/hexo%E5%8D%9A%E5%AE%A2/"/>
+      <category term="hexo博客" scheme="blog.healchow.com/categories/hexo%E5%8D%9A%E5%AE%A2/"/>
     
     
-      <category term="hexo test" scheme="//blog.healchow.com/tags/hexo-test/"/>
+      <category term="hexo test" scheme="blog.healchow.com/tags/hexo-test/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="//blog.healchow.com/2018/08/05/2018/08/05/hello-world.html"/>
-    <id>//blog.healchow.com/2018/08/05/2018/08/05/hello-world.html</id>
+    <link href="blog.healchow.com/2018/08/05/hello-world.html"/>
+    <id>blog.healchow.com/2018/08/05/hello-world.html</id>
     <published>2018-08-05T00:33:44.000Z</published>
     <updated>2018-09-18T09:37:14.000Z</updated>
     
@@ -53,12 +53,12 @@
     
     </summary>
     
-      <category term="hexo博客" scheme="//blog.healchow.com/categories/hexo%E5%8D%9A%E5%AE%A2/"/>
+      <category term="hexo博客" scheme="blog.healchow.com/categories/hexo%E5%8D%9A%E5%AE%A2/"/>
     
     
-      <category term="hexo test" scheme="//blog.healchow.com/tags/hexo-test/"/>
+      <category term="hexo test" scheme="blog.healchow.com/tags/hexo-test/"/>
     
-      <category term="helloword" scheme="//blog.healchow.com/tags/helloword/"/>
+      <category term="helloword" scheme="blog.healchow.com/tags/helloword/"/>
     
   </entry>
   
