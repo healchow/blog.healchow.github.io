@@ -1,4 +1,4 @@
-blog.healchow.com/2028/07/17/要热爱 要记住.html
-blog.healchow.com/2018/09/22/中秋假之初.html
-blog.healchow.com/2018/09/09/second-test.html
-blog.healchow.com/2018/08/05/hello-world.html
+http://blog.healchow.com/2028/07/17/要热爱 要记住.html
+http://blog.healchow.com/2018/09/22/中秋假之初.html
+http://blog.healchow.com/2018/09/09/second-test.html
+http://blog.healchow.com/2018/08/05/hello-world.html
