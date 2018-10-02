@@ -159,14 +159,14 @@
     var S = {
         init: function () {
             S.Drawing.init('.canvas');
-            var a = Math.random() + 1;
+            var a = Math.floor(Math.random()*10);
             // 想说的话
             if (a==1) {
                 document.body.classList.add('body--ready');
-                S.UI.simulate("傻伢儿|遇见你|很幸运|#time");
+                S.UI.simulate("傻伢儿|遇见你|很幸运|#countdown 3|#time");
             } else if (a==2){
                 document.body.classList.add('body--ready1');
-                S.UI.simulate("伢儿|超级|喜欢|你哦|#time");               
+                S.UI.simulate("伢儿|超级|喜欢|你哦|#countdown 3|#time");               
             } else if (a==3) {
                  document.body.classList.add('body--ready1');
                  // alert("你想做的事情我都陪你做~");
@@ -183,7 +183,7 @@
             } else {
                  document.body.classList.add('body--ready4');
                  // alert("伢儿, 喜欢你哦~");
-                 S.UI.simulate("伢儿|要记住|我一直在呐~");                
+                 S.UI.simulate("伢儿|要记住|我一直在呐~|#countdown 3|#time");                
             }
 
             S.Drawing.loop(function () {
