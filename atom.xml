@@ -5,9 +5,9 @@
   <subtitle>活得自我 并且干净</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="blog.healchow.com/"/>
+  <link href="https://blog.healchow.com/"/>
   <updated>2018-09-25T01:15:12.000Z</updated>
-  <id>blog.healchow.com/</id>
+  <id>https://blog.healchow.com/</id>
   
   <author>
     <name>Heal Chow</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>要热爱 要记住</title>
-    <link href="blog.healchow.com/2028/07/17/%E8%A6%81%E7%83%AD%E7%88%B1%20%E8%A6%81%E8%AE%B0%E4%BD%8F.html"/>
-    <id>blog.healchow.com/2028/07/17/要热爱 要记住.html</id>
+    <link href="https://blog.healchow.com/2028/07/17/%E8%A6%81%E7%83%AD%E7%88%B1%20%E8%A6%81%E8%AE%B0%E4%BD%8F.html"/>
+    <id>https://blog.healchow.com/2028/07/17/要热爱 要记住.html</id>
     <published>2028-07-17T04:20:00.000Z</published>
     <updated>2018-09-25T01:15:12.000Z</updated>
     
@@ -41,17 +41,17 @@
     
     </summary>
     
-      <category term="伢儿" scheme="blog.healchow.com/categories/%E4%BC%A2%E5%84%BF/"/>
+      <category term="伢儿" scheme="https://blog.healchow.com/categories/%E4%BC%A2%E5%84%BF/"/>
     
     
-      <category term="mygirl" scheme="blog.healchow.com/tags/mygirl/"/>
+      <category term="mygirl" scheme="https://blog.healchow.com/tags/mygirl/"/>
     
   </entry>
   
   <entry>
     <title>中秋假之初</title>
-    <link href="blog.healchow.com/2018/09/22/%E4%B8%AD%E7%A7%8B%E5%81%87%E4%B9%8B%E5%88%9D.html"/>
-    <id>blog.healchow.com/2018/09/22/中秋假之初.html</id>
+    <link href="https://blog.healchow.com/2018/09/22/%E4%B8%AD%E7%A7%8B%E5%81%87%E4%B9%8B%E5%88%9D.html"/>
+    <id>https://blog.healchow.com/2018/09/22/中秋假之初.html</id>
     <published>2018-09-22T13:54:21.000Z</published>
     <updated>2018-09-22T18:38:06.000Z</updated>
     
@@ -65,17 +65,17 @@
     
     </summary>
     
-      <category term="伢儿" scheme="blog.healchow.com/categories/%E4%BC%A2%E5%84%BF/"/>
+      <category term="伢儿" scheme="https://blog.healchow.com/categories/%E4%BC%A2%E5%84%BF/"/>
     
     
-      <category term="mygirl" scheme="blog.healchow.com/tags/mygirl/"/>
+      <category term="mygirl" scheme="https://blog.healchow.com/tags/mygirl/"/>
     
   </entry>
   
   <entry>
     <title>second-test</title>
-    <link href="blog.healchow.com/2018/09/09/second-test.html"/>
-    <id>blog.healchow.com/2018/09/09/second-test.html</id>
+    <link href="https://blog.healchow.com/2018/09/09/second-test.html"/>
+    <id>https://blog.healchow.com/2018/09/09/second-test.html</id>
     <published>2018-09-09T10:13:55.000Z</published>
     <updated>2018-09-18T09:37:20.000Z</updated>
     
@@ -87,17 +87,17 @@
     
     </summary>
     
-      <category term="hexo博客" scheme="blog.healchow.com/categories/hexo%E5%8D%9A%E5%AE%A2/"/>
+      <category term="hexo博客" scheme="https://blog.healchow.com/categories/hexo%E5%8D%9A%E5%AE%A2/"/>
     
     
-      <category term="hexo test" scheme="blog.healchow.com/tags/hexo-test/"/>
+      <category term="hexo test" scheme="https://blog.healchow.com/tags/hexo-test/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="blog.healchow.com/2018/08/05/hello-world.html"/>
-    <id>blog.healchow.com/2018/08/05/hello-world.html</id>
+    <link href="https://blog.healchow.com/2018/08/05/hello-world.html"/>
+    <id>https://blog.healchow.com/2018/08/05/hello-world.html</id>
     <published>2018-08-05T00:33:44.000Z</published>
     <updated>2018-09-18T09:37:14.000Z</updated>
     
@@ -109,12 +109,12 @@
     
     </summary>
     
-      <category term="hexo博客" scheme="blog.healchow.com/categories/hexo%E5%8D%9A%E5%AE%A2/"/>
+      <category term="hexo博客" scheme="https://blog.healchow.com/categories/hexo%E5%8D%9A%E5%AE%A2/"/>
     
     
-      <category term="hexo test" scheme="blog.healchow.com/tags/hexo-test/"/>
+      <category term="hexo test" scheme="https://blog.healchow.com/tags/hexo-test/"/>
     
-      <category term="helloword" scheme="blog.healchow.com/tags/helloword/"/>
+      <category term="helloword" scheme="https://blog.healchow.com/tags/helloword/"/>
     
   </entry>
   
